@@ -3,4 +3,4 @@ Projekt na zaliczenie ćwiczeń z Projektowania aplikacji mobilnych Grupa:L_III_
 
 Naszym projektem jest aplikacja mobilna pomagająca w planowaniu zadań w ciągu dnia. W aplikacji można dodać zadanie do listy, a po wykonaniu zadania odznaczyć jako ukończone.
 
-Link do demo :
+Link do demo : https://youtu.be/IeWM4Ocel_I
